@@ -4,14 +4,16 @@
 
 ## 1. [VietNam Airline](https://www.vietnamairlines.com/)
 UI:
-- Simple and well organize\
+- Simple and well organize
+#
 UX:
 - Booking section shows up by clicking, user can focus on it easier
 - Destination menu displays list of country with related region, it helps visitor alot to find location
 - 
 ## 2. [VietJet](https://www.vietjetair.com/Sites/Web/vi-VN/Home)
 UI:
-- Too many things and information display when the page is too short\
+- Too many things and information display when the page is too short
+#
 UX: 
 - Kidda messy, A visitor dont know where to focus on this page
 - I think they might attend on promotions than another things because they're low-cost airline. So it's suitable for people who are looking for cheap flies.
@@ -20,20 +22,23 @@ UX:
 ## 3. [Jetstar](https://www.jetstar.com/vn/en/home)
 UI:
 - Good design with orange
-- Like Vietjet they're low-cost airline but more organized with promotion banner\
+- Like Vietjet they're low-cost airline but more organized with promotion banner
+#
 UX:
 - I dont like the static carousel, so i think it should be a auto-carousel.
 - The dropdown menu on arrival and departure field is too big.
 - On arrival destination field, it should get the correct location like Singaporean airline (currently it's from Hanoi)
 ## 4. [Singaporean Airline](http://www.singaporeair.com/en_UK/vn/home)
 UI:
-- 3rd banner has low quality image\
+- 3rd banner has low quality image
+#
 UX:
 - Automatically get the correct arrival destination for customer, it's really helpful
 - All information on banner for services not promotions. Seem good for somebody who are looking for high quality trips.
 ## 5. [Emirates](https://www.emirates.com/vn/english/)
 UI:
-- Fancy website\
+- Fancy website
+#
 UX:
 - Like Jetstar it should get the correct location on arrvial field
 - Rating section for user experience, kinda cool
